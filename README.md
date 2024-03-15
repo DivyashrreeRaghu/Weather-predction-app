@@ -37,7 +37,6 @@ Additional description about the project and its features.
 
 Clone the repository unto your local machine cd to the folder.
 
-
 ### Prerequisites
 
 - A modern browser, up to date.  :muscle:
@@ -49,18 +48,6 @@ Clone the repository unto your local machine cd to the folder.
 ## Future features
 
 - Add extra functionality and a contact page.
-
-## Author
-
-👤 SAMIR PAUL
-- Github: [@SamirPaul1](https://github.com/SamirPaul1) 
-- Twitter: [@SamirPaulb](https://twitter.com/SamirPaulb) 
-- Linkedin: [samirpaul](https://www.linkedin.com/in/samirpaul/) 
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
 
 ## 📝 License
 
